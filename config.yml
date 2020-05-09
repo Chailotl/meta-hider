@@ -1,0 +1,12 @@
+# What metadata should be hidden from hacked clients?
+hideStackSize: true
+hideDisplayName: true
+hideLore: true
+hideUnbreakable: true
+hideEnchantments: true
+hideDurability: true
+hidePotionData: true
+hideHealth: true
+hideStatusEffects: true
+hideOwners: true
+hideHorseAttributes: true
