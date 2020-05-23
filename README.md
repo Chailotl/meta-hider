@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://i.imgur.com/l9oLRbS.png">
 </p>
+<p align="center">
+  <b>Dependencies:</b> <a href="https://www.spigotmc.org/resources/protocollib.1997/">ProtocolLib</a>
+</p>
 
 Prevention is the best measure, so prevent hacked clients from seeing information that vanilla clients normally cannot see! Currently it hides:
 - Health and absorption
