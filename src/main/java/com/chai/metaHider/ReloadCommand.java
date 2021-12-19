@@ -1,4 +1,4 @@
-package com.raus.metaHider;
+package com.chai.metaHider;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
