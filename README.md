@@ -15,8 +15,8 @@ Prevention is the best measure, so prevent hacked clients from seeing informatio
 - Status effects
 
 <p align="center">
-  <img src="https://i.imgur.com/bSfiVND.png">
-  <img src="https://i.imgur.com/YQSraOk.png">
+  <img src="https://i.imgur.com">
+  <img src="https://i.imgur.com">
 </p>
 
 ## Usage
